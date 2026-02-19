@@ -140,15 +140,9 @@ If you'd like to improve this project:
 
 ---
 
-## 📜 License
-
-This project is open source and free to use.
-
----
-
 ## 👨‍💻 Author
 
-Created by @codingwithsagar  
+Created by @soumyachandratre  
 Python Beginner Project
 
 ---
